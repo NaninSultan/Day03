@@ -1,8 +1,6 @@
 function main() {
     // Only change code below this line
-    // a sta ako necu
-    /* pa ne moras onda */
-
+var forCat;
     // Only change code above this line
 }
 main();
